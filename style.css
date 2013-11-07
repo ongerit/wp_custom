@@ -1,15 +1,21 @@
 /*
-Theme Name: New WP 3.0
-Theme URI: http://onextrapixel.com
-Description: A completely WordPress 3.0 compatible theme.
-Author: Keenan Payne
+Theme Name: TSO first Theme
+Theme URI: http://thomasongeri.com
+Description: My first wordpress creation
+Author: Thomas Ongeri
 Author URI: http://slackrmedia.com
 Version: 1.0
 */
 
 
+
+/*
+FONT FAMILY
+*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
 body{
-	font-family: Arial, Helvetica, Georgia, Sans-serif;
+	font-family: 'Open Sans',Arial, Helvetica, Georgia, Sans-serif;
 	font-size: 12px;
 	background: #d9d9d9;
 	color: #000000;
